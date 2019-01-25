@@ -29,3 +29,6 @@ app.use(express.static(__dirname + '/public'));
 app.listen(PORT, function () {
     console.log('you are running on port ' + PORT );
 });
+
+
+console.log('asasa');
